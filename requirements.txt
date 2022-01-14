@@ -24,7 +24,7 @@ Markdown==3.0.1
 matplotlib==3.0.2
 mccabe==0.6.1
 networkx==2.2
-numpy==1.15.3
+numpy==1.21.0
 opencv-contrib-python==4.2.0.32
 Pillow==9.0.0
 playsound==1.2.2
