@@ -28,7 +28,7 @@ numpy==1.22.0
 opencv-contrib-python==4.8.1.78
 Pillow==10.3.0
 playsound==1.2.2
-protobuf==3.18.3
+protobuf==4.25.8
 pylint==2.1.1
 pyparsing==2.3.0
 python-dateutil==2.7.5
