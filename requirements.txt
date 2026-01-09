@@ -46,6 +46,6 @@ termcolor==1.1.0
 toolz==0.9.0
 typed-ast==1.1.0
 urllib3==2.6.0
-Werkzeug==3.1.4
+Werkzeug==3.1.5
 wincertstore==0.2
 wrapt==1.10.11
