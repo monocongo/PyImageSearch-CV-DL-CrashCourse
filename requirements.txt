@@ -26,7 +26,7 @@ mccabe==0.6.1
 networkx==2.2
 numpy==1.22.0
 opencv-contrib-python==4.8.1.78
-Pillow==12.1.1
+Pillow==12.2.0
 playsound==1.2.2
 protobuf==5.29.6
 pylint==2.1.1
