@@ -29,7 +29,7 @@ opencv-contrib-python==4.8.1.78
 Pillow==12.3.0
 playsound==1.2.2
 protobuf==5.29.6
-pylint==2.1.1
+pylint==4.0.9
 pyparsing==2.3.0
 python-dateutil==2.7.5
 PyWavelets==1.0.1
